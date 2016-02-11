@@ -1,0 +1,6 @@
+﻿<Configuration>
+  <UserName>admin</UserName>
+  <Password>GEIP123User</Password>
+  <OperationName>Import</OperationName>
+  <XmlFilePath>C:\\ProvisioningFiles\SomeBogusFileName.xml</XmlFilePath>
+</Configuration>

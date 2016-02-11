@@ -1,0 +1,14 @@
+﻿<Configuration>
+  <UserName>admin</UserName>
+  <Password>GEIP123User</Password>
+  <OperationName>Export</OperationName>
+  <LogFilePath>C:\ProvisioningFiles\Log1.txt</LogFilePath>
+  <OutputFilePath>C:\ProvisioningFiles\MyExportFile.xml</OutputFilePath>
+  <IncludeHistorianNameInLinks>true</IncludeHistorianNameInLinks>
+  <IncludeClasses>false</IncludeClasses>
+  <ExportOrRemoveNodePaths>
+    <ExportOrRemoveNodePath></ExportOrRemoveNodePath>
+    <ExportOrRemoveNodePath>Production Wells > Alberta Canada Site > Alberta Area > Well002</ExportOrRemoveNodePath>
+  </ExportOrRemoveNodePaths>
+</Configuration>
+

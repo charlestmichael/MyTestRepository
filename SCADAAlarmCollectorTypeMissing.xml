@@ -1,0 +1,12 @@
+﻿<Configuration>
+  <UserName>admin</UserName>
+  <Password>GEIP123User</Password>
+  <OperationName>SCADAImport</OperationName>
+  <LogFilePath>C:\ProvisioningFiles\Log1.txt</LogFilePath>
+  <SCADAProductName>iFix</SCADAProductName>
+  <HistorianName>CM2008DEV</HistorianName>
+  <AlarmCollectorName>CM2008DEV_OPCAE</AlarmCollectorName>
+  <AdvancedActionServiceName>CIMAlarms</AdvancedActionServiceName>
+  <ExportedAlarmFilePath>C:\ProvisioningFiles\AlarmsFromCimplicity.csv</ExportedAlarmFilePath>
+  <CimplicityProjectName>TESTPROJECT</CimplicityProjectName>
+</Configuration> 

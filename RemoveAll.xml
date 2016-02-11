@@ -1,0 +1,7 @@
+﻿<Configuration>
+  <UserName>admin</UserName>
+  <Password>GEIP123User</Password>
+  <OperationName>Remove</OperationName>
+  <LogFilePath>C:\ProvisioningFiles\Log1.txt</LogFilePath>
+  <IncludeClasses>false</IncludeClasses>
+</Configuration>

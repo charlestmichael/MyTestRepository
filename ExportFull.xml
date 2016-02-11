@@ -1,0 +1,9 @@
+﻿<Configuration>
+  <UserName>admin</UserName>
+  <Password>GEIP123User</Password>
+  <OperationName>Export</OperationName>
+  <LogFilePath>C:\ProvisioningFiles\Log1.txt</LogFilePath>
+  <OutputFilePath>C:\ProvisioningFiles\FullExportFile.xml</OutputFilePath>
+  <IncludeHistorianNameInLinks>true</IncludeHistorianNameInLinks>
+  <IncludeClasses>false</IncludeClasses>
+</Configuration> 

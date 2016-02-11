@@ -1,0 +1,10 @@
+﻿<Configuration>
+  <UserName>admin</UserName>
+  <Password>GEIP123User</Password>
+  <OperationName>Import</OperationName>
+  <LogFilePath>C:\ProvisioningFiles\Log1.txt</LogFilePath>
+  <XmlFilePath>C:\ProvisioningFiles\Model_AlbertaSite_ID-HIST60SP1_ALM_CIM_CM.xml</XmlFilePath>
+  <CreateHistorianTags>false</CreateHistorianTags>
+  <OverwriteExistingConfiguration>false</OverwriteExistingConfiguration>
+  <IncludeClasses>false</IncludeClasses>
+</Configuration> 

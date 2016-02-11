@@ -1,0 +1,7 @@
+﻿<Configuration>
+  <UserName>admin</UserName>
+  <Password>GEIP123User</Password>
+  <OperationName>SomeBogusOperation</OperationName>
+  <LogFilePath>C:\\ProvisioningFiles\MyLogFile.txt</LogFilePath>
+  <XmlFilePath>C:\\ProvisioningFiles\SomeBogusFileName.xml</XmlFilePath>
+</Configuration>
